@@ -8,7 +8,7 @@ This transceiver can have multiple channels for RX and TX which can operate simu
 
 
 
-![alt_text](images/image2.jpg "image_tooltip")
+![alt_text](images/image2.png "image_tooltip")
 
 
 
@@ -53,7 +53,7 @@ _RF Transmitter section (Upconversion)_
 
 
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](images/image1.jpg "image_tooltip")
 
 
 _RF Receiver section (I/P is RF analog signal)_
