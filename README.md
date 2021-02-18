@@ -110,7 +110,7 @@ k = Boltzmann's constant (−228 dBW/(K·Hz))
 
 If the system Temperature is 290 Kelvin then effective noise power is 10*Log10(kT/1mW) = -174 dBm.
 
-Input RF signal = LTE 20 MHz
+Input RF signal = LTE 20 MHz 2.4 GHz
 
 Bandwidth = 20 MHz
 
