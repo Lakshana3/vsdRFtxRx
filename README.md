@@ -53,7 +53,7 @@ _RF Transmitter section (Upconversion)_
 
 
 
-![alt_text](images/image2.jpg "image_tooltip")
+![alt_text](images/image2.png "image_tooltip")
 
 
 _RF Receiver section (I/P is RF analog signal)_
@@ -101,7 +101,7 @@ If you want your receiver to operate in a wide range of frequencies, you can con
 
 
 
-![alt_text](images/image5.jpg "image_tooltip")
+![alt_text](images/image5.png "image_tooltip")
 
 
 T = Temperature in Kelvin
