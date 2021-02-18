@@ -8,7 +8,7 @@ This transceiver can have multiple channels for RX and TX which can operate simu
 
 
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](images/image1.jpg "image_tooltip")
 
 
 
@@ -101,7 +101,7 @@ If you want your receiver to operate in a wide range of frequencies, you can con
 
 
 
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](images/image5.jpg "image_tooltip")
 
 
 T = Temperature in Kelvin
