@@ -131,6 +131,8 @@ I have configured the RF blocks to have maximum gain from AGC:
     1. Gain = 0 dB (Programmable gain values = 0,1,2,...31)
     2. FIR = 0 dB (Programmable gain values = -12/-6/0/6 | Fixed gain value = 6dB)
 
+The final input power to CMOS digital interface is approximately -28 dBm.
+
 The digital gain does not increase SNR. Sacrificing analog gain will decrease performance of the system. But also note that the signal power received by BBP should be a nominal value. For very low signal levels in which the maximum analog gain is still not high enough to achieve this goal, variable digital gain can be used.
 
 
