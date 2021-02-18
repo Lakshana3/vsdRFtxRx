@@ -101,7 +101,7 @@ If you want your receiver to operate in a wide range of frequencies, you can con
 
 
 
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](images/image7.png "image_tooltip")
 
 
 T = Temperature in Kelvin
