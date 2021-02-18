@@ -61,7 +61,7 @@ _RF Receiver section (I/P is RF analog signal)_
 
 
 *   RxA, RxB, RxC differential amplifiers - converts differential signals to single ended output signal for further processing.
-*   I/P MUX - used in a diversity system to improve reliability of wireless link because multiple antennas offer a receiver several observations of the same signal.
+*   I/P MUX - used in a diversity system.
 *   LNA - Used to amplify a very low-power signal without significantly degrading its SNR  for further processing | Important characteristics are low NF and high gain
 *   Phase splitter - to produce in-phase and quadrature signals of the RF LO frequency. 
 *   RF Mixer - downconversion mixer - performs frequency translation by mixing LO frequency and RF signal frequency without modifying the phase and amplitude of the signals.
@@ -108,7 +108,7 @@ T = Temperature in Kelvin
 
 k = Boltzmann's constant (−228 dBW/(K·Hz))
 
-If the system Temperature is 290 Kelvin then effective noise power is 10*Log10(kT/1mW) = -174 dBm.
+If the system temperature is 290 K, then the effective noise power is 10*Log10(kT/1mW) = -174 dBm.
 
 Input RF signal = LTE 20 MHz 2.4 GHz
 
@@ -133,7 +133,7 @@ I have configured the RF blocks to have maximum gain from AGC:
 
 The final input power to CMOS digital interface is approximately -28 dBm.
 
-The digital gain does not increase SNR. Sacrificing analog gain will decrease performance of the system. But also note that the signal power received by BBP should be a nominal value. For very low signal levels in which the maximum analog gain is still not high enough to achieve this goal, variable digital gain can be used.
+The digital gain does not increase SNR. Sacrificing analog gain will decrease performance of the system. But also note that the signal power received by BBP should be a nominal value.
 
 
 # Future work
