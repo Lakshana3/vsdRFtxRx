@@ -94,7 +94,7 @@ If you want your receiver to operate in a wide range of frequencies, you can con
 
 
 
-![alt_text](images/image4.jpg "image_tooltip")
+![alt_text](images/image6.jpg "image_tooltip")
 
 
 **Calculation of Minimum detectable signal(MDS) at RX input:**
