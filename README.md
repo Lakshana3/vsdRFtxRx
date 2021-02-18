@@ -129,7 +129,7 @@ I have configured the RF blocks to have maximum gain from AGC:
     4. LPF = 24 dB (Programmable gain values = 0,1,2,...24)
 2. Digital Gain
     1. Gain = 0 dB (Programmable gain values = 0,1,2,...31)
-    2. FIR = 0 dB (Programmable gain values = -12/-6/0/6 | Fixed gain value = 6dB)
+    2. FIR = -6 dB (Programmable gain values = -12/-6/0/6 | Fixed gain value = 6dB)
 
 The final input power to CMOS digital interface is approximately -28 dBm.
 
